@@ -1,0 +1,12 @@
+{
+    "cs": {
+        "sentence1": "Hráč1 hraje: ",
+        "sentence2": "Hráč2 hraje: ",
+        "date": "Nyní je:"
+},
+    "en": {
+        "sentence1": "Player1 is playing: ",
+        "sentence2": "Player2 is playing: ",
+        "date": "Now is:"
+}
+}
